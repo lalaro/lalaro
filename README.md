@@ -164,6 +164,24 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalaro&theme=algolia)](https://github.com/lalaro/github-readme-stats)
 
+<div align="center">
+	
+
+![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
+
+
+</div>
+
+
+<p align="center">
+
+<a href="https://github.com/FahimFBA/github-readme-twitter">
+<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+</a>
+
+</p>
+
+
 ## ⚡ Actividad reciente:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalaro&theme=react-dark)](https://github.com/lalaro)
 
