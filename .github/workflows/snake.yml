@@ -1,26 +1,37 @@
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Ejecutar diariamente
-  workflow_dispatch:  # Permite ejecución manual
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            github-contribution-grid-snake.svg
-          dark_mode: true
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+name: Generate Snake Animation
+ 
+ on:
+   schedule:
+     - cron: "0 0 * * *"  # Ejecuta todos los días a medianoche UTC
+   workflow_dispatch:  # Permite ejecución manual
+ 
+ permissions:
+   contents: write  # Permiso para escribir en el repositorio
+ 
+ jobs:
+   generate:
+     runs-on: ubuntu-latest
+     steps:
+       - name: Set up job
+         run: echo "Starting Snake Animation Workflow"
+ 
+       - name: Checkout repository
+         uses: actions/checkout@v3
+ 
+       - name: Generate Snake Animation
+         uses: Platane/snk@v3
+         with:
+           github_user_name: ${{ github.repository_owner }}
+           outputs: |
+             github-contribution-grid-snake.svg
+ 
+       - name: Debug file generation
+         run: ls -R  # Lista los archivos generados para verificar
+ 
+       - name: Commit and push
+         run: |
+           git config --global user.name 'github-actions[bot]'
+           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+           git add -f github-contribution-grid-snake.svg
+           git commit -m "Updated Snake Animation" || echo "No changes to commit"
+           git push
