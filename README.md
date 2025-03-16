@@ -2,10 +2,8 @@
 <img align="left" src="resources/img/image1.png" width="100%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Laura Rodríguez</h1>
-<h3 align="center">A passionate Programmer from Sri lanka</h3>
+<h3 align="center">A passionate programmer</h3>
 <p align="center">I am fascinated by how computer technology 🌐 has brought changes to our lives that could never have been predicted; witnessing the expansion of computer science allowed me to consider studying software engineering from an early age, and my enthusiasm has perpetually developed since this time. And also I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
@@ -97,36 +95,24 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📊 Estadísticas de GitHub:
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalaro&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
+## 📊 GitHub Statistics:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lalaro&theme=algolia)](https://git.io/streak-stats)
 
 [![lalaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalaro&theme=algolia)](https://github.com/lalaro/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalaro&theme=algolia)](https://github.com/lalaro/github-readme-stats)
-
-<div align="center">
-	
-
-![FahimFBA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FahimFBA&layout=compact&theme=synthwave&v=2)
-
-
+<div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lalaro&theme=algolia" 
+         alt="Lalaro's Top Langs" 
+         style="border: 1px solid white; border-radius: 10px;">
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalaro&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<a href="https://github.com/FahimFBA/github-readme-twitter">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
-</a>
-
-</p>
-
-
-## ⚡ Actividad reciente:
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalaro&theme=react-dark)](https://github.com/lalaro)
+## ⚡ Recent Activity:
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalaro&bg_color=1A1B27&color=38BDF8&line=FFFFFF&point=FFFFFF&area=true&area_color=1E1E2E)](https://github.com/lalaro)
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/lalaro/lalaro/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
