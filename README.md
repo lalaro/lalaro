@@ -68,11 +68,8 @@ Here are some ideas to get you started:
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalaro&theme=react-dark)](https://github.com/lalaro)
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lalaro/lalaro/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/lalaro/lalaro/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-  </picture>
-</p>
+   <img src="https://raw.githubusercontent.com/lalaro/lalaro/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+ </p>
 
 
 
