@@ -25,63 +25,47 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/AnushkaWijegoonawardana97?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/AnushkaWijegoonawardana97?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=AnushkaWijegoonawardana97.repoName) <img src="https://komarev.com/ghpvc/?username=AnushkaWijegoonawardana97" alt="AnushkaWijegoonawardana97" />
 
-## About Me :
+![GitHub followers](https://img.shields.io/github/followers/lalaro?style=social) 
+![GitHub User's stars](https://img.shields.io/github/stars/lalaro?style=social) 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=lalaro.repoName) 
+<img src="https://komarev.com/ghpvc/?username=lalaro" alt="lalaro" />
 
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
-- 🎓 Studies for Software Engineering at [London Metropolitan University](https://www.londonmet.ac.uk/)
-- 🎓 Studies for BCS HEQ at [Matrix Institute of Information Technology](http://www.matrix-edu.com/)
-- 🏡'Lives in **Dalugama Sri Lanka**
-- ⚡ **Fun Facts** : 🍕 🏉 🏏 🎥 🚞
+# 👋 Hola, soy Laura Valentina! 
 
-<br>
+## Sobre Mí :
 
-## Connect with me ☕ :
+- 🏢 Actualmente estudio en **[Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/)**
+- 🎓 Cursando **Ingeniería de Sistemas**
+- 🚀 Apasionada por **React, Java, Spring Boot y desarrollo web**
+- 🛡️ Me interesa la **seguridad informática y el desarrollo de videojuegos**
+- ⚡ **Dato Curioso**: Disfruto resolver desafíos de seguridad como Bandido y trabajar en proyectos de simulación.
 
-<br>
+## 📫 Conéctate conmigo:
+[![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png "@lalaro")](https://www.instagram.com/lalaro/)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png "@lalaro")](https://www.linkedin.com/in/lalaro/)
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@lalaro")](https://twitter.com/lalaro)
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+## 🚀 Tecnologías que uso:
+<p align="left">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/office/48/000000/react.png"/>
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+</p>
 
-<br>
+## 📊 Estadísticas de GitHub:
 
-## What I am Good at 🧑‍💻 :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lalaro&theme=algolia)](https://git.io/streak-stats)
 
-<br>
+[![lalaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=lalaro&theme=algolia)](https://github.com/lalaro/github-readme-stats)
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lalaro&theme=algolia)](https://github.com/lalaro/github-readme-stats)
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
-
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-
-<br>
-
-## GitHub Stats 📈 :
-
-<br>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AnushkaWijegoonawardana97&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushkaWijegoonawardana97&theme=algolia)](https://github.com/AnushkaWijegoonawardana97/github-readme-stats) [![AnushkaWijegoonawardana97 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WinterWolf97&theme=algolia)](https://github.com/WinterWolf97/github-readme-stats)
-
-<br>
-
-## GitHub Thropies 🏆 :
-
-<br>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnushkaWijegoonawardana97)](https://github.com/AnushkaWijegoonawardana97/github-profile-trophy)
-
-<br>
-
-## Activity Graph 📊 :
-
-<br>
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnushkaWijegoonawardana97&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## ⚡ Actividad reciente:
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lalaro&theme=react-dark)](https://github.com/lalaro)
 
 ---
-
-Credit: [AnushkaWijegoonawardana97](https://github.com/AnushkaWijegoonawardana97)
-
-Last edited on: 30/06/2022
+⭐️ Inspirado en otros perfiles de GitHub 🚀
