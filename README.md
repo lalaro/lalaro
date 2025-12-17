@@ -56,14 +56,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Backend
+- Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,py,spring" />
+    <img src="https://skillicons.dev/icons?i=java,py,js" />
   </a>
 </p>
 
-- Frontend
+- Web Development
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,react,html,css,jquery,nodejs,express,spring" />
