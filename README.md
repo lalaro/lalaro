@@ -66,7 +66,7 @@
 - Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,jquery,nodejs,express,spring" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,jquery,nodejs,express,spring" />
   </a>
 </p>
 
