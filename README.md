@@ -29,8 +29,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🏢 Currently studying at **[Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/)**
-- 🎓 Pursuing a degree in Systems Engineering
+- 🎓 Systems Engineering student at Escuela Colombiana de Ingeniería Julio Garavito
 - 💼 Former Technology Intern – IT Assurance at Seguros Suramericana (SURA), contributing to application quality, security, and stability across multiple platforms
 -  🎓 Pursuing a degree in **Systems Engineering**
 - 🚀 Passionate about **React, Java, Spring Boot, and web development**
