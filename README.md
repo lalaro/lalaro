@@ -66,7 +66,14 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,html,css,jquery" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,jquery,nodejs,express,spring" />
+  </a>
+</p>
+
+- Mobile
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter" />
   </a>
 </p>
 
